@@ -130,7 +130,9 @@ src/
 
 - Implement frontier-based exploration for systematic environment coverage  
 - Replace random exploration with goal-driven navigation  
-- Improve interaction strategies after object detection  
+- Extend perception module to support multiple object detection instead of single color-based detection  
+- Integrate semantic perception for object classification and scene understanding  
+- Improve handling of dynamic objects and real-time interaction strategies  
 
 ---
 
